@@ -34,7 +34,7 @@ The trainable part of the circuit consists of:
 * **Entanglement Layers:** CNOT gates to create quantum correlations between features.
 
 ### 4. Optimization
-A classical optimizer (e.g., **COBYLA** or **Adam**) is used to iteratively update the circuit parameters by minimizing the Cross-Entropy loss calculated from quantum measurements.
+A classical optimizer (e.g., **COBYLA** or **Adam**)  (COBYLA) in this case is used to iteratively update the circuit parameters by minimizing the Cross-Entropy loss calculated from quantum measurements.
 
 ---
 
